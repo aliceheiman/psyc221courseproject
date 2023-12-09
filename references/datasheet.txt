@@ -1,0 +1,29 @@
+# Datasheet: PSYC 221 Course Project
+
+Author: Alice Heiman, Stanford University
+
+Files:
+	- abcd_p_demo.csv
+    - mri_y_tfmr_sst_csvcg_dst.csv
+    - mri_y_tfmr_sst_isvcg_dst.csv
+
+## Motivation
+
+The dataset is...
+
+
+## Composition
+
+abcd_p_demo.csv
+
+This dataset contains...
+
+
+mri_y_tfmr_sst_csvcg_dst.csv
+
+This dataset contains...
+
+
+mri_y_tfmr_sst_isvcg_dst.csv
+
+This dataset contains...
